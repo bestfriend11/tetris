@@ -1,0 +1,38 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+Build/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Rider files
+.idea/
+
+# Compiled files
+*.obj
+*.pch
+*.ilk
+*.meta
+*.exp
+*.lib
+*.dll
+*.log
+*.aps
+*.res
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+*.obj
